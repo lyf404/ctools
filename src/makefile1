@@ -1,0 +1,2 @@
+exe_a:
+	gcc main.c -o exe_a -I ../include -L ../lib/a -lmax -lsum
